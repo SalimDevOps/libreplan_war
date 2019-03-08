@@ -26,6 +26,14 @@
         to be valid for most profiles. Specific profiles can overwrite
         values when necessary.
     -->
+
+  <properties>
+  	<sonar.host.url>http://localhost:9000</sonar.host.url>
+ 	<sonar.login>f2bd4c1e7fccf597f9bc3a6282fe8e3e6e4c9907</sonar.login>
+	<sonar.sources>src</sonar.sources>
+	<sonar.test.exclusions>src/test/java/**</sonar.test.exclusions>
+  </properties>
+	
     <properties>
         <!--  Data source properties -->
         <dataSource.user>libreplan</dataSource.user>
