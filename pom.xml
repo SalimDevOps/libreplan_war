@@ -29,7 +29,7 @@
     <properties>
         <!--  Data source properties -->
 	<sonar.host.url>http://localhost:9000</sonar.host.url>
- 	<sonar.login>f2bd4c1e7fccf597f9bc3a6282fe8e3e6e4c9907</sonar.login>
+ 	<sonar.login>d56a33962783f2708ea95c461e510cbfcc87f604</sonar.login>
 	<sonar.sources>src</sonar.sources>
 	<sonar.test.exclusions>src/test/java/**</sonar.test.exclusions>
         <dataSource.user>libreplan</dataSource.user>
